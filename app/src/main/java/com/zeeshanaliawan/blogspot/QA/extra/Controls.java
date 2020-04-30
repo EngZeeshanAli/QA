@@ -83,6 +83,5 @@ public class Controls {
         d.setCancelable(false);
         return d;
     }
-
-
+    
 }
