@@ -7,7 +7,9 @@ This is an android app for asking questions related to your subject from the loc
 5. Run App or Buile it.<br>
 6. App will work fine.<br>
 # Previews
-<img src="screenshorts/1.jpg" width="250">
-<img src="screenshorts/2.jpg" width="250"><br>
-<img src="screenshorts/3.jpg" width="250">
-<img src="screenshorts/4.jpg" width="250">
+Some screenshorts of the app<br>
+    <img src="screenshorts/1.jpg" width="250" > &nbsp; &nbsp;
+<img src="screenshorts/2.jpg" width="250" >&nbsp; &nbsp;
+<img src="screenshorts/3.jpg" width="250" ><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="screenshorts/4.jpg" width="250" >
+
