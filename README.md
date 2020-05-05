@@ -1,6 +1,6 @@
 # Q @ A
 This is an android app for asking questions related to your subject from the local community. The community will guide you about your problem.
-# TOOLS
+# Tools
 <ul>
   <li>Android Studio</li>
   <li> Java</li>
