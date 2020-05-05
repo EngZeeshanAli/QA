@@ -11,7 +11,7 @@ This is an android app for asking questions related to your subject from the loc
 1.Install android studio.<br>
 2.Clone the app repo.<br>
 3.Add your firebase json file to app.<br>
-5. Run App or Buile it.<br>
+5. Run App or Build it.<br>
 6. App will work fine.<br>
 # Previews
 <b>Some screenshorts of the app</b><br><br>
